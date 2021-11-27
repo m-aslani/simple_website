@@ -1,0 +1,26 @@
+.backgroundContainer{
+width: 100%;
+position: relative;
+}
+.background{
+    width: 100%;
+ }
+
+.textContainer{
+    position: absolute;
+    top: 150px;
+    left: 100px;
+}
+
+.textContainer h1{
+    font-size: 7rem;
+    color: rgb(44, 6, 42);
+}
+.textContainer p{
+    font-size: 4rem;
+    color: rgb(44, 6, 42);
+}
+.textContainer span{
+    font-weight: bold;
+    color: rgb(255, 0, 76);
+}
